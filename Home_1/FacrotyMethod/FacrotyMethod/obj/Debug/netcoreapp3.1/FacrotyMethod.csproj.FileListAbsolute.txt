@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.exe
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.deps.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.dll
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\bin\Debug\netcoreapp3.1\FacrotyMethod.pdb
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\obj\Debug\netcoreapp3.1\FacrotyMethod.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\obj\Debug\netcoreapp3.1\FacrotyMethod.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\obj\Debug\netcoreapp3.1\FacrotyMethod.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\obj\Debug\netcoreapp3.1\FacrotyMethod.dll
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\FacrotyMethod\FacrotyMethod\FacrotyMethod\obj\Debug\netcoreapp3.1\FacrotyMethod.pdb

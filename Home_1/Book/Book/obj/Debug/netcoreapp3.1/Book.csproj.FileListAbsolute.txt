@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\obj\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\SV\Desktop\ITEA\1\HomeWork1\1\Book\Book\obj\Debug\netcoreapp3.1\Book.pdb
