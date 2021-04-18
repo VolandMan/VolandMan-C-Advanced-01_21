@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\SV\Desktop\ITEA\2\Home_2\SortedList\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
