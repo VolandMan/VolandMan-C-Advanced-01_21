@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.exe
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.deps.json
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.dll
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\bin\Debug\netcoreapp3.1\Delegate1.pdb
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\obj\Debug\netcoreapp3.1\Delegate1.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\obj\Debug\netcoreapp3.1\Delegate1.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\obj\Debug\netcoreapp3.1\Delegate1.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\obj\Debug\netcoreapp3.1\Delegate1.dll
+C:\Users\SV\Desktop\ITEA\3\Home3\1\Delegate1\Delegate1\obj\Debug\netcoreapp3.1\Delegate1.pdb

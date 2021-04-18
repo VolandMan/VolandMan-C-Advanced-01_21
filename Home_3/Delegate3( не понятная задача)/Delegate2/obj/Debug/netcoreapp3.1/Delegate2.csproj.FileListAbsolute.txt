@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+C:\Users\SV\Desktop\ITEA\3\Home3\Delegate2\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
