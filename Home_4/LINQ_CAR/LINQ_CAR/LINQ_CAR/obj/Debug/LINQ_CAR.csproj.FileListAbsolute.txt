@@ -1,6 +1,0 @@
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\bin\Debug\LINQ_CAR.exe.config
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\bin\Debug\LINQ_CAR.exe
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\bin\Debug\LINQ_CAR.pdb
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\obj\Debug\LINQ_CAR.csprojAssemblyReference.cache
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\obj\Debug\LINQ_CAR.exe
-C:\Users\SV\Desktop\ITEA\4\Home_4\LINQ_CAR\LINQ_CAR\LINQ_CAR\obj\Debug\LINQ_CAR.pdb
