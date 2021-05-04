@@ -1,0 +1,6 @@
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\bin\Debug\Mass.exe.config
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\bin\Debug\Mass.exe
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\bin\Debug\Mass.pdb
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\obj\Debug\Mass.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\obj\Debug\Mass.exe
+C:\Users\SV\Desktop\ITEA\4\Home_4\Massive\Mass\Mass\obj\Debug\Mass.pdb
