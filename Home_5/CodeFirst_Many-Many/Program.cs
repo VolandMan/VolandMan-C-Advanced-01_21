@@ -65,7 +65,7 @@ namespace CodeFirst_M_M
 
                     foreach (var itemStacks in item.Phone)
                     {
-                        Console.WriteLine("{0}", itemStacks.Namber);
+                        Console.WriteLine("{0}", item.Namber);
                     }
                     Console.WriteLine("-----------------------------------------");
                 }
