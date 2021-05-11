@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\obj\Debug\netcoreapp3.1\Sport_client.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\obj\Debug\netcoreapp3.1\Sport_client.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\obj\Debug\netcoreapp3.1\Sport_client.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.exe
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.deps.json
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.dll
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\bin\Debug\netcoreapp3.1\Sport_client.pdb
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\obj\Debug\netcoreapp3.1\Sport_client.dll
+C:\Users\SV\Desktop\ITEA\4\Home_4\Sport_Client\Sport_client\Sport_client\obj\Debug\netcoreapp3.1\Sport_client.pdb
