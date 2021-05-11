@@ -55,13 +55,13 @@ namespace CodeFirst_M_M
                 {
                     Console.WriteLine("Project name: {0}", item.Project_name);
 
-                    Console.WriteLine("Project employees: ");
+                    Console.WriteLine("Person: ");
 
                     foreach (var itemEmp in item.Person)
                     {
                         Console.WriteLine("{0} {1}", itemEmp.Name, itemEmp.Last_Name);
                     }
-                    Console.WriteLine("Technology stack of the project: ");
+                    Console.WriteLine("Phone Namber: ");
 
                     foreach (var itemStacks in item.Phone)
                     {
