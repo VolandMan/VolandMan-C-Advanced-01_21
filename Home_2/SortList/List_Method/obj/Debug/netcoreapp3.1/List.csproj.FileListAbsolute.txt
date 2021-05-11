@@ -1,0 +1,11 @@
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\SV\Desktop\ITEA_HomeWorks-master\ITEA_HomeWorks-master\HomeWork2\Tasks 1-2\obj\Debug\netcoreapp3.1\List.pdb
